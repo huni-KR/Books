@@ -6,8 +6,7 @@
 <details>
 <summary><strong>Book Information</strong></summary>
 
-
-<img src = "/book_cover.jpeg" width="50%" height="50%">
+<img src = "book_cover.jpeg" width="50%" height="50%">
 
 <table style="text-align: center;">
     <thead>
