@@ -1,5 +1,6 @@
 # 훌륭한 프로그래머 되는 법
-![book_cover](book_cover.jpeg)
+
+<img src=book_cover.jpeg width="50%">
 
 |||
 |:------:|:---:|
