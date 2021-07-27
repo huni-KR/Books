@@ -1,6 +1,6 @@
 # 훌륭한 프로그래머 되는 법
 
-<img src=book_cover.jpeg width="50%">
+<img src=book_cover.jpg width="50%">
 
 |||
 |:------:|:---:|
