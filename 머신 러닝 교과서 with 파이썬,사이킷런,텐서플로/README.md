@@ -49,7 +49,7 @@ $$X \in R^{160 \times 4}$$
 
 **머신러닝 작업 흐름**
 
-<img src=images/image040.jpg width="100%">
+<img src=images/image040.jpg width="50%">
 
 **전처리 : 데이터 형태 갖추기**
 - 원본 데이터로는 학습 알고리즘이 최적의 성능을 내기는 어려움
