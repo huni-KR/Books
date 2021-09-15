@@ -81,4 +81,4 @@ $$X \in R^{160 \times 4}$$
 
 <img src=images/image051.jpg width="75%">
 
-[실습 코드](./codes/Chapter02/ch02.ipynb)
+[Chapter02 실습 코드](./codes/Chapter02/ch02.ipynb)
